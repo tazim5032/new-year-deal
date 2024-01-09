@@ -507,3 +507,60 @@ footer{
     display: block;
 
 }
+
+
+.ki-ache-jibone{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holiday{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.sale{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.ispum{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */
+    margin: 28px 460px 0 460px;
+    
+}
+
+#khela-hbe{
+    background-image: url('../new-year-deal/resources/Group\ 75.png'), url('../new-year-deal/resources/Rectangle\ 1.png'), url('../new-year-deal/resources/Rectangle\ 2.png');
+
+    height: 662px;
+    background-repeat: no-repeat;
+    background-position: top left, top right, bottom right;
+    margin: 120px 280px;
+
+}
+#image{
+    padding-left: 550px;
+    padding-top: 60px;
+
+
+}
