@@ -133,6 +133,7 @@
     background-repeat: no-repeat;
     border-radius: 16px;
     text-align: center;
+
     
 }
 .place-hotel{
@@ -180,7 +181,7 @@
     background: #FFF;
     max-width: 1300px;
     height: 600px;
-    margin: 60px auto 0 auto;
+    margin: 100px auto 0 auto;
     text-align: center;
     width: 1600px;
  
@@ -441,6 +442,10 @@ footer{
 .phone-call{
     display: flex;
     padding-right: 275px;
+  
+}
+.kk{
+    padding-right: 5px;
 }
 .phone-web-text{
     color: #FFF;
